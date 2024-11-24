@@ -4,7 +4,7 @@
   <url>
     <loc>http://xlqdworld.com/2024/11/21/%E5%B0%8F%E8%A7%A3KMP%E7%AE%97%E6%B3%95/</loc>
     
-    <lastmod>2024-11-21</lastmod>
+    <lastmod>2024-11-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -103,7 +103,7 @@
 
   <url>
     <loc>http://xlqdworld.com/</loc>
-    <lastmod>2024-11-21</lastmod>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -111,35 +111,42 @@
   
   <url>
     <loc>http://xlqdworld.com/tags/%E8%A7%82%E7%82%B9/</loc>
-    <lastmod>2024-11-21</lastmod>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://xlqdworld.com/tags/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2024-11-21</lastmod>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://xlqdworld.com/tags/%E8%A7%82%E6%84%9F/</loc>
-    <lastmod>2024-11-21</lastmod>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://xlqdworld.com/tags/Flag/</loc>
-    <lastmod>2024-11-21</lastmod>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://xlqdworld.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA-%E7%AE%97%E6%B3%95-%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2024-11-21</lastmod>
+    <loc>http://xlqdworld.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/</loc>
+    <lastmod>2024-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://xlqdworld.com/tags/%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
