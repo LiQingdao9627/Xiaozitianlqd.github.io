@@ -135,27 +135,6 @@
   </url>
   
   <url>
-    <loc>http://xlqdworld.com/tags/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2024-11-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://xlqdworld.com/tags/%E8%A7%82%E6%84%9F/</loc>
-    <lastmod>2024-11-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://xlqdworld.com/tags/Flag/</loc>
-    <lastmod>2024-11-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://xlqdworld.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/</loc>
     <lastmod>2024-11-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -170,7 +149,28 @@
   </url>
   
   <url>
+    <loc>http://xlqdworld.com/tags/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2024-11-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://xlqdworld.com/tags/%E8%A7%82%E6%84%9F/</loc>
+    <lastmod>2024-11-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://xlqdworld.com/tags/%E4%BA%8C%E6%AC%A1%E5%85%83/</loc>
+    <lastmod>2024-11-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://xlqdworld.com/tags/Flag/</loc>
     <lastmod>2024-11-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
